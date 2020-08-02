@@ -1,15 +1,15 @@
-dddddddddd
+aaaaaaaaaaaaaaaaaaaaaaaaaa
 
 # --------------
 # Please enter the commit message for your changes. Everything below
 # this paragraph is ignored, and an empty message aborts the commit.
 # Just close the window to accept your message.
 diff --git a/README.md b/README.md
-index e87becc..4e8ad42 100644
+index 4e8ad42..ea786ff 100644
 --- a/README.md
 +++ b/README.md
 @@ -1 +1 @@
--# gitskills
+-啊大大ad啊ad大
 \ No newline at end of file
-+啊大大ad啊ad大
++readme
 \ No newline at end of file
